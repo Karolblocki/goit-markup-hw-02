@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
 .link:focus,
@@ -6,10 +6,10 @@ body{
     color: blue;
     text-decoration: none;
 }
- .colorblue{
+ .colorblue {
     color: blue;
  }
- .background{
+ .background {
     background-color: blue;
     color: aliceblue;
  }
