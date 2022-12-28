@@ -7,6 +7,9 @@ body {
    color: #2196F3;
    text-decoration: none;
 }
+.link1:focus{
+
+}
 
 .colorblue{
    color: #2196F3; font-family: Raleway;
