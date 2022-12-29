@@ -9,7 +9,6 @@
 }
 .link1:focus{
  text-decoration: none;
- color: aqua;
 }
 
 .colorblue{
@@ -100,6 +99,7 @@ letter-spacing: 0.06em;
 text-align: center;
 background-color: #2196F3;
 }
+
 .header{
    color: #212121;
    font-family: Roboto;
